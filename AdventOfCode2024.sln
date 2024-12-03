@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2_2_LevelReportSafetyDam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_1_ParseCorruptedCommandStream", "Day3_1_ParseCorruptedCommandStream\Day3_1_ParseCorruptedCommandStream.csproj", "{2331872C-DFDE-43A3-BFB0-7C1B9A181088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_2_ParseCorruptedCommandStreamWithControlFlow", "Day3_2_ParseCorruptedCommandStreamWithControlFlow\Day3_2_ParseCorruptedCommandStreamWithControlFlow.csproj", "{535345A6-5B3E-4D0A-ACE3-9E19E7029DC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535345A6-5B3E-4D0A-ACE3-9E19E7029DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535345A6-5B3E-4D0A-ACE3-9E19E7029DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535345A6-5B3E-4D0A-ACE3-9E19E7029DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535345A6-5B3E-4D0A-ACE3-9E19E7029DC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
