@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_TotalListDistance", "Day1_TotalListDistance\Day1_TotalListDistance.csproj", "{3A1858AE-15FB-4C29-880A-C5146279E6DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_1_TotalListDistance", "Day1_TotalListDistance\Day1_1_TotalListDistance.csproj", "{3A1858AE-15FB-4C29-880A-C5146279E6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_2_ListSimilarityScore", "Day1_ListSimilarityScore\Day1_2_ListSimilarityScore.csproj", "{91847B25-F98C-49AB-A4B5-FEE5737B927E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3A1858AE-15FB-4C29-880A-C5146279E6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A1858AE-15FB-4C29-880A-C5146279E6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A1858AE-15FB-4C29-880A-C5146279E6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91847B25-F98C-49AB-A4B5-FEE5737B927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91847B25-F98C-49AB-A4B5-FEE5737B927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91847B25-F98C-49AB-A4B5-FEE5737B927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91847B25-F98C-49AB-A4B5-FEE5737B927E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
