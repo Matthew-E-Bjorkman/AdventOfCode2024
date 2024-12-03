@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_2_ListSimilarityScore"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2_2_LevelReportSafetyDampened", "Day2_2_LevelReportSafetyDampened\Day2_2_LevelReportSafetyDampened.csproj", "{742CDEEC-B421-4402-8A04-6128EF51B558}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_1_ParseCorruptedCommandStream", "Day3_1_ParseCorruptedCommandStream\Day3_1_ParseCorruptedCommandStream.csproj", "{2331872C-DFDE-43A3-BFB0-7C1B9A181088}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{742CDEEC-B421-4402-8A04-6128EF51B558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{742CDEEC-B421-4402-8A04-6128EF51B558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{742CDEEC-B421-4402-8A04-6128EF51B558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2331872C-DFDE-43A3-BFB0-7C1B9A181088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
