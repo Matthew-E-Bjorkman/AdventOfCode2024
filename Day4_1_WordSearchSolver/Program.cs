@@ -9,8 +9,6 @@ if (!File.Exists(fileName))
     return;
 }
 
-var input = string.Empty;
-
 var wordGrid = PopulateListFromInput(fileName);
 
 var totalMatches = SolveWordGrid(wordGrid);
