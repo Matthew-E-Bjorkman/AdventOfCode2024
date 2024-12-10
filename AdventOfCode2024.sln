@@ -17,7 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_2_ParseCorruptedComman
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_1_WordSearchSolver", "Day4_1_WordSearchSolver\Day4_1_WordSearchSolver.csproj", "{D0E66A06-7819-4A86-9B2C-1AEEEB433394}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_2WordSearchSolver2D", "Day4_2WordSearchSolver2D\Day4_2WordSearchSolver2D.csproj", "{65F05DB4-4D8A-4A14-9D5D-7CDB3264DCAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_2_WordSearchSolver2D", "Day4_2WordSearchSolver2D\Day4_2_WordSearchSolver2D.csproj", "{65F05DB4-4D8A-4A14-9D5D-7CDB3264DCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_1_PrintingOrder", "Day5_1PrintingOrder\Day5_1_PrintingOrder.csproj", "{CE42905E-0A2F-4488-B8FD-ACF8E7980783}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{65F05DB4-4D8A-4A14-9D5D-7CDB3264DCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65F05DB4-4D8A-4A14-9D5D-7CDB3264DCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65F05DB4-4D8A-4A14-9D5D-7CDB3264DCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE42905E-0A2F-4488-B8FD-ACF8E7980783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE42905E-0A2F-4488-B8FD-ACF8E7980783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE42905E-0A2F-4488-B8FD-ACF8E7980783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE42905E-0A2F-4488-B8FD-ACF8E7980783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
